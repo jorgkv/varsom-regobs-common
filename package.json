@@ -68,6 +68,7 @@
     "karma-jasmine-html-reporter": "^1.5.4",
     "karma-junit-reporter": "^2.0.1",
     "karma-mocha-reporter": "^2.2.5",
+    "lerna": "^3.22.1",
     "ng-packagr": "^10.1.0",
     "ngx-translate-testing": "^5.0.0",
     "prettier": "^2.1.2",
