@@ -7,13 +7,13 @@ export interface AvalancheObsEditModel {
   DestructiveSizeTID?: number;
   AvalancheTriggerTID?: number;
   AvalancheTID?: number;
+  Trajectory?: string;
   TerrainStartZoneTID?: number;
   SnowLine?: number;
   Aspect?: number;
   AvalCauseTID?: number;
   FractureHeight?: number;
   FractureWidth?: number;
-  Trajectory?: string;
   StartLat?: number;
   StartLong?: number;
   StopLat?: number;
